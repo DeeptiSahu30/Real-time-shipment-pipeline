@@ -1,0 +1,10 @@
+v1
+{"path":"file:///opt/project/data/output/part-00000-76a2a1e3-f588-40c4-ab1e-600734d45c55-c000.snappy.parquet","size":1933,"isDir":false,"modificationTime":1784445675689,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00015-addbe7df-684b-4966-9a92-62c09f43eba1-c000.snappy.parquet","size":5085,"isDir":false,"modificationTime":1784445676181,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00041-a161cccf-ecaf-4148-a0f6-d67a4db01b4a-c000.snappy.parquet","size":5243,"isDir":false,"modificationTime":1784445678008,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00066-54f67a19-0764-47fa-a609-529ea4ebecaa-c000.snappy.parquet","size":5262,"isDir":false,"modificationTime":1784445679497,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00090-01ab96e9-06fc-4eb3-99dc-e400a3628d97-c000.snappy.parquet","size":5264,"isDir":false,"modificationTime":1784445681214,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00127-965c1de4-8d93-468b-b515-4a765efdcc60-c000.snappy.parquet","size":5326,"isDir":false,"modificationTime":1784445683569,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00129-ad0d4c3f-fa77-4851-b769-3e2595b000fe-c000.snappy.parquet","size":5283,"isDir":false,"modificationTime":1784445683889,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00134-fbb92ea0-625a-4fb2-9871-b51bdce713fc-c000.snappy.parquet","size":5269,"isDir":false,"modificationTime":1784445684161,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00193-73cc7cad-6678-4418-8ff4-b142ee7d65be-c000.snappy.parquet","size":5347,"isDir":false,"modificationTime":1784445693599,"blockReplication":1,"blockSize":33554432,"action":"add"}

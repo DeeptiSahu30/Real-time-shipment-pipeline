@@ -1,0 +1,12 @@
+v1
+{"path":"file:///opt/project/data/output/part-00000-665565ed-8a61-410b-8ee3-edbda97aaa79-c000.snappy.parquet","size":5438,"isDir":false,"modificationTime":1784444804583,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00007-ea41d270-b24e-4d7f-b8c2-77ff0902c2fe-c000.snappy.parquet","size":5331,"isDir":false,"modificationTime":1784444804566,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00045-47d6fca1-7f1a-4856-b349-2b36c29c5f0f-c000.snappy.parquet","size":5340,"isDir":false,"modificationTime":1784444807135,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00074-06bf0c47-f376-4ba4-ae8a-61af5c170a4c-c000.snappy.parquet","size":5292,"isDir":false,"modificationTime":1784444812715,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00146-15f4e71b-8b3f-4fc2-bab2-e5887639a94d-c000.snappy.parquet","size":5236,"isDir":false,"modificationTime":1784444816975,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00150-03bbb4c8-d30d-4cb8-aaf0-70ed0458b43b-c000.snappy.parquet","size":5389,"isDir":false,"modificationTime":1784444817246,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00151-d1edd531-916e-4ba0-bc29-c15a0216c3d2-c000.snappy.parquet","size":5228,"isDir":false,"modificationTime":1784444817341,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00165-b720a8b2-86f2-420e-b2c3-a5956bb1f44b-c000.snappy.parquet","size":5373,"isDir":false,"modificationTime":1784444818458,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00187-750d9cbc-f1bf-48fd-8122-6a79d6c635bd-c000.snappy.parquet","size":5285,"isDir":false,"modificationTime":1784444819929,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00188-5daad1be-5ca8-4627-b3f4-fd6c511e638c-c000.snappy.parquet","size":5452,"isDir":false,"modificationTime":1784444819942,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///opt/project/data/output/part-00194-8b734df0-25ff-4f1d-a58c-5398036a6857-c000.snappy.parquet","size":5261,"isDir":false,"modificationTime":1784444820446,"blockReplication":1,"blockSize":33554432,"action":"add"}
