@@ -82,53 +82,6 @@ The pipeline demonstrates how modern data engineering technologies work together
 
 ---
 
-# ▶️ Getting Started
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/DeeptiSahu30/Real-time-shipment-pipeline.git
-```
-
----
-
-## 2️⃣ Start Docker Services
-
-```bash
-cd docker
-
-docker compose up -d
-```
-
----
-
-## 3️⃣ Start Shipment Producer
-
-```bash
-python producer/producer.py
-```
-
----
-
-## 4️⃣ Start Spark Consumer
-
-```bash
-docker exec -it spark bash
-
-cd /opt/project/spark
-
-/opt/spark/bin/spark-submit \
---packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.6,org.apache.hadoop:hadoop-aws:3.3.4,com.amazonaws:aws-java-sdk-bundle:1.12.262 \
-consumer.py
-```
-
----
-
-## 5️⃣ Query Using Athena
-
-Execute SQL queries on the **shipment_processed** external table to analyze shipment data.
-
----
 
 # 🎯 Skills Demonstrated
 
