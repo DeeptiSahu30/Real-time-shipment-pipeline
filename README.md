@@ -16,9 +16,7 @@ The pipeline demonstrates how modern data engineering technologies work together
 
 ## 🏗️ Architecture
 
-<p align="center">
-  <img src="./Screenshots/architecture.png" alt="Architecture Diagram" width="100%">
-</p>
+![Architecture](Screenshots/architecture.png)
 
 ---
 
@@ -90,15 +88,12 @@ The pipeline demonstrates how modern data engineering technologies work together
 
 All required containers running successfully.
 
-![Docker Containers](Screenshots/docker-containers.png)
-
+![Containers](Screenshots/container.png)
 ---
 
 ## 🚀 Kafka Topic
 
 Shipment topic successfully created.
-
-![Kafka Topic](Screenshots/kafka-topic.png)
 
 ---
 
@@ -106,15 +101,13 @@ Shipment topic successfully created.
 
 Real-time shipment events continuously published to Kafka.
 
-![Producer](Screenshots/producer.png)
-
 ---
 
 ## ⚡ Spark Structured Streaming
 
 Real-time data ingestion, transformation, and storage into Amazon S3.
 
-![Spark Streaming](Screenshots/spark-streaming.png)
+![Streaming](Screenshots/streaming.png)
 
 ---
 
