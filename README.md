@@ -14,7 +14,10 @@ The pipeline demonstrates how modern data engineering technologies work together
 
 # 🏗️ Architecture
 
-![Architecture](https://chatgpt.com/s/m_6a743a37f5808191b919f22499e24253)
+![Architecture]
+<p align="center">
+  <img src=""C:\Users\deept\Downloads\architecture.png"" width="1000">
+</p>
 
 ---
 
